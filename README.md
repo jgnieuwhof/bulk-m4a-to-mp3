@@ -4,6 +4,6 @@ bulk converts all matching files from a folder to mp3, optionally deleting the o
 
 # quick start:
 - yarn
-- yarn start -i "<<some input folder>>" -e "<<input file extension to match>>"
+- yarn start -i "some input folder" -e "input file extension to match"
 
 include `-u` argument to delete originals
