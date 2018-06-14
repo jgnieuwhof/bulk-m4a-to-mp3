@@ -1,5 +1,5 @@
 {
-  "name": "bulk-ffmpeg",
+  "name": "bulk-m4a-to-mp3",
   "version": "1.0.2",
   "description": "simple program to convert m4a to mp3",
   "bin": "dist/index.js",
