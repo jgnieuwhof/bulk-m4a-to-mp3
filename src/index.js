@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+import "babel-polyfill";
 import path from "path";
 import fs from "fs";
 import parseArgs from "minimist";
