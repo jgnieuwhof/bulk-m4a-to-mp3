@@ -18,7 +18,7 @@ const main = async () => {
     boolean: ["unlink"],
     string: ["input", "ext"],
     alias: { i: ["input"], e: ["ext"], u: ["unlink"] },
-    default: { input: "./", ext: "", unlink: false }
+    default: { input: "./", ext: ".m4a", unlink: false }
   });
 
   const files = fs
