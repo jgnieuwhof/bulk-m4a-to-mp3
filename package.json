@@ -1,6 +1,6 @@
 {
   "name": "bulk-m4a-to-mp3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple program to convert m4a to mp3",
   "bin": "dist/index.js",
   "main": "dist/index.js",
